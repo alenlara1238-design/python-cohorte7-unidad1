@@ -300,3 +300,6 @@ Cantidad: 3
 
 Subtotal: 151.50
 ```
+
+Enlace de emojis:
+https://unicode.org/emoji/charts/full-emoji-list.html
